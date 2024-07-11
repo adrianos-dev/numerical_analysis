@@ -1,0 +1,5 @@
+2*x + y + z + q + r - 4
+x + 2*y + z + q + r - 5
+x + y + 2*z + q + r - 6
+x + y + z + 2*q + r - 7
+x + y + z + q + 2*r - 8
